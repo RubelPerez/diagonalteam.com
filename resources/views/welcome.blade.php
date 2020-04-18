@@ -101,7 +101,7 @@
                             profesional.    
                             </p>
                             <div class="mbr-section-btn">
-                                <a class="btn btn-md btn-secondary display-4" data-target-id="team1-k" href="#team1-k">CONOCENOS</a>
+                                <a class="btn btn-md btn-info display-4" data-target-id="team1-k" href="#team1-k">CONOCENOS</a>
                                 <a class="btn btn-md btn-white-outline display-4" data-target-id= "form1-l" href="#form1-l">CONTACTANOS</a>
                             </div>
                         </div>
@@ -418,8 +418,7 @@
                                 CONTACTANOS
                             </h2>
                             <h3 class="mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style display-5">
-                                Escribenos con lo que deseas y uno de nuestros representates le llamara para coordinar lo que desea
-                                y como ajustarnos exactamente a su presupuesto
+                                No tengas miedo de contactarnos, cualquier duda que tengas, la respondemos.
                             </h3>
                         </div>
                     </div>
@@ -429,9 +428,10 @@
                         <div class="col-md-8">
                         <div class="media-container-column col-lg-12" data-form-type="formoid">
                             <!---Formbuilder Form--->
-                            <form action="https://mobirise.com/" method="POST" class="mbr-form form-with-styler" data-form-title="Mobirise Form"><input type="hidden" name="email" data-form-email="true" value="e672C/dZoHRH27BNAqrmINxLkSQiRRO0kOMtuJzGIMxGk1D4pamHgxHjnE2jHzEOg+cuVM2Ccrsm/0ZbD8MdAqrUqmvPZlZs8boqewrZL9dV5t1GdkpZQnnXds226yI1">
+                            <form action="https://mobirise.com/" method="POST" class="mbr-form form-with-styler" data-form-title="Mobirise Form">
+                                <input type="hidden" name="email" data-form-email="true" value="e672C/dZoHRH27BNAqrmINxLkSQiRRO0kOMtuJzGIMxGk1D4pamHgxHjnE2jHzEOg+cuVM2Ccrsm/0ZbD8MdAqrUqmvPZlZs8boqewrZL9dV5t1GdkpZQnnXds226yI1">
                                 <div class="row">
-                                    <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Thanks for filling out the form!</div>
+                                    <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Mensaje enviado correctamente!</div>
                                     <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">
                                     </div>
                                 </div>
@@ -450,11 +450,11 @@
                                     </div>
                                     <div data-for="phone" class="col-md-12  form-group">
                                         <label for="phone-form1-l" class="form-control-label mbr-fonts-style"></label>
-                                        <select class="custom-select" required>
+                                        <select class="custom-select" data-form-field="Contacteme Por:" name="Asunto" id="Asunto" required>
                                             <option selected>Como Prefiere ser contactado</option>
-                                            <option value="1">Correo</option>
-                                            <option value="2">Telefono</option>
-                                            <option value="3">Otros- Especificar en Mensaje</option>
+                                            <option value="Correo">Correo</option>
+                                            <option value="Telefono">Telefono</option>
+                                            <option value="Otros">Otros- Especificar en Mensaje</option>
                                           </select>  
                                     </div>
                                     <div data-for="message" class="col-md-12 form-group">
@@ -468,18 +468,32 @@
                             </form><!---Formbuilder Form--->
                         </div>
                     </div>
-                    <div class="col-md-4">
-                      <h1 >Telefono:</h1>
-                      <ul style="list-style-type: none">
-                          <li><p>+34 652 61 35 33</p></li>
-                      </ul>
+                    <div class="col-sm-4 col-md-4  mt-2 ">
+                        <!--editar-->
                       
-                      <h1>Correo:</h1>
-                      <ul style="list-style-type: none">
-                        <li><p>info@diagonalteam.com</p></li>
-                    </ul>
+                       
+                       <div class="col-sm-12">
+                         <div class="col-12 col-sm-12 col-md-12">      
+                           <h2 class="text-black font-weight-bold">
+                            <span class="mbri-letter  mbr-iconfont mbr-iconfont-btn"></span>
+                            Correo</h2>
+                      </div>
+                         <div class="col-sm-12"><a href="mailto:info@diagonalteam.com"><p class="text-left pl-5">info@diagonalteam.com</p></a>
+                      </div>
+                       </div>
+                       <div class="col-sm-12">
+                        <div class="col-12 col-sm-12 col-md-12">      
+                           <h2 class="text-black font-weight-bold">
+                            <span class="mbri-mobile  mbr-iconfont mbr-iconfont-btn"></span>    
+                            Telefono</h2>
+                      </div>
+                         <div class="col-sm-12"><p class="text-left pl-5">+34 652 61 35 33</p></div>
+                       </div>
                       
-                    </div>
+                      <!--fin editar-->
+                      </div>
+                        </div>
+                      
                     </div>
                 </div>
             </div>
