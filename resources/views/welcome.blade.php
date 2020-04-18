@@ -6,7 +6,6 @@
               <!-- Site made with Mobirise Website Builder v4.12.3, https://mobirise.com -->
               <meta charset="UTF-8">
               <meta http-equiv="X-UA-Compatible" content="IE=edge">
-              <meta name="generator" content="Mobirise v4.12.3, mobirise.com">
               <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
               <link rel="shortcut icon" href="{{asset('assets/images/logo2.png')}}" type="image/x-icon">
               <meta name="description" content="">
@@ -23,15 +22,13 @@
               <link rel="stylesheet" href="{{asset('assets/theme/css/style.css')}}">
               <link rel="preload" as="style" href="{{asset('assets/mobirise/css/mbr-additional.css')}}"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
               <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+              <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
 
               
               
             </head>
             <body>
-              <section class="menu cid-rWvvouNZiy" once="menu" id="menu1-q">
-            
-                
-            
+              <section class="menu cid-rWvvouNZiy" once="menu" id="menu1-q">           
                 <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm bg-color transparent">
                     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <div class="hamburger">
@@ -43,13 +40,13 @@
                     </button>
                     <div class="menu-logo">
                         <div class="navbar-brand">
-                            
-                            <span class="navbar-caption-wrap">
-                                <a class="navbar-caption text-white display-4" href="/">
-                                    DIAGONAL TEAM
+                            <span class="navbar-logo">
+                                <a href="/">
+                                <img src="{{asset('assets/images/diagonalteam.png')}}" alt="" style="height: 5.8rem">
                                 </a>
                             </span>
                         </div>
+
                     </div>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item">
@@ -86,7 +83,9 @@
             
                 
             
-                <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(35, 35, 35);"></div>
+                <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(35, 35, 35);">
+             
+                </div>
             
                 <div class="container align-center">
                     <div class="row justify-content-md-center">
@@ -96,12 +95,10 @@
                             </h1>
                             
                             <p class="mbr-text pb-3 mbr-fonts-style display-5">
-                            Un start-up joven, dinamico especializado en las diferentes tecnologias actuales enfocados en el
-                            sacar del anonimato digital a las PYMES brindando soluciones web y de correo a muy bajo costo y de calidad
-                            profesional.    
+                               
                             </p>
                             <div class="mbr-section-btn">
-                                <a class="btn btn-md btn-info display-4" data-target-id="team1-k" href="#team1-k">CONOCENOS</a>
+                                <a class="btn btn-md btn-info display-4" data-target-id="counters6-i" href="#counters6-i">NOSOTROS</a>
                                 <a class="btn btn-md btn-white-outline display-4" data-target-id= "form1-l" href="#form1-l">CONTACTANOS</a>
                             </div>
                         </div>
@@ -275,7 +272,9 @@
                 <div class="container pt-4 mt-2">
                     <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2 font-weight-bold">NOSOTROS</h2>
                     <h3 class="mbr-section-subtitle pb-5 align-center mbr-fonts-style display-5">
-                        Principales caracteristicas que nos definen.
+                        Un start-up joven, dinamico especializado en las diferentes tecnologias actuales enfocados en el
+                        sacar del anonimato digital a las PYMES brindando soluciones web y de correo a muy bajo costo y de calidad
+                        profesional.
                     </h3>
                     <div>
                             <div class="cards-container">
@@ -423,15 +422,15 @@
                         </div>
                     </div>
                 </div>
+               
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8">
                         <div class="media-container-column col-lg-12" data-form-type="formoid">
                             <!---Formbuilder Form--->
-                            <form action="https://mobirise.com/" method="POST" class="mbr-form form-with-styler" data-form-title="Mobirise Form">
+                            <form action="https://mobirise.com/" method="POST" id="Formulario" class="mbr-form form-with-styler" data-form-title="Mobirise Form">
                                 <input type="hidden" name="email" data-form-email="true" value="e672C/dZoHRH27BNAqrmINxLkSQiRRO0kOMtuJzGIMxGk1D4pamHgxHjnE2jHzEOg+cuVM2Ccrsm/0ZbD8MdAqrUqmvPZlZs8boqewrZL9dV5t1GdkpZQnnXds226yI1">
-                                <div class="row">
-                                    <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Mensaje enviado correctamente!</div>
+                                <div class="row">                                  
                                     <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">
                                     </div>
                                 </div>
@@ -463,6 +462,9 @@
                                     </div>
                                     <div class="col-md-12 input-group-btn align-center">
                                         <button type="submit" class="btn btn-primary btn-form display-4">Enviar Mensaje</button>
+                                    </div>
+                                    <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">
+                                        Mensaje enviado Correctamente
                                     </div>
                                 </div>
                             </form><!---Formbuilder Form--->
