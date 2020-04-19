@@ -1,17 +1,14 @@
-
-
-            <!DOCTYPE html>
+<!DOCTYPE html>
             <html  >
             <head>
               <meta charset="UTF-8">
               <meta http-equiv="X-UA-Compatible" content="IE=edge">
               <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
               <link rel="shortcut icon" href="{{asset('assets/images/logo2.png')}}" type="image/x-icon">
-              <meta name="description" content="">
-              
-              
-            <title>Diagonal Team &copy; {{date('Y')}}</title>
-              <link rel="stylesheet" href="{{asset('assets/web/assets/mobirise-icons/mobirise-icons.css')}}">
+              <meta name="viewport" content="width=device-width, initial-scale=1">
+             <meta name="description" content="Start up digital especializado en el desarrollo y diseño web y en el posicionamiento SEO de estas">
+             <title>Diagonal Team - Servicios de Desarrollo Web</title>
+            <link rel="stylesheet" href="{{asset('assets/web/assets/mobirise-icons/mobirise-icons.css')}}">
               <link rel="stylesheet" href="{{asset('assets/bootstrap/css/bootstrap.min.css')}}">
               <link rel="stylesheet" href="{{asset('assets/bootstrap/css/bootstrap-grid.min.css')}}">
               <link rel="stylesheet" href="{{asset('assets/bootstrap/css/bootstrap-reboot.min.css')}}">
@@ -82,7 +79,8 @@
                 </nav>
             </section>
             
-            <section class="engine"></section><section class="cid-rWvqrrxSsu mbr-fullscreen mbr-parallax-background" id="header2-h">
+            <section class="engine"></section>
+            <section class="cid-rWvqrrxSsu mbr-fullscreen mbr-parallax-background " id="header2-h">
             
                 
             
@@ -115,7 +113,6 @@
             </section>
             
             <section class="team1 cid-rWvrBdJ2KR" id="team1-k">
-                
                 
                 
                 <div class="container align-center">
