@@ -20,6 +20,7 @@
               <link rel="stylesheet" href="{{asset('assets/dropdown/css/style.css')}}">
               <link rel="stylesheet" href="{{asset('assets/tether/tether.min.css')}}">
               <link rel="stylesheet" href="{{asset('assets/theme/css/style.css')}}">
+              <link rel="stylesheet" href="{{asset('animation/animacion.css')}}">
               <link rel="preload" as="style" href="{{asset('assets/mobirise/css/mbr-additional.css')}}"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
               <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
               <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
@@ -126,7 +127,7 @@
                         
                     <div class="team-item col-lg-3 col-md-6">
                             <div class="item-image">
-                                <img src="assets/images/face3.jpg" alt="" title="">
+                                <img src="{{asset('assets/images/face1.png')}}" alt="" title="">
                             </div>
                             <div class="item-caption py-3">
                                 <div class="item-name px-2">
@@ -136,6 +137,7 @@
                                 <div class="item-role px-2">
                                     <p>Full Stack Dev</p>
                                 </div>
+                                    <!--
                                 <div class="item-social pt-2">
                                     <a href="https://twitter.com/mobirise" target="_blank">
                                         <span class="p-1 socicon-twitter socicon mbr-iconfont mbr-iconfont-social"></span>
@@ -155,11 +157,11 @@
                                     <a href="https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw" target="_blank">    
                                         
                                     </a>
-                                </div>
+                                </div>-->
                             </div>
                         </div><div class="team-item col-lg-3 col-md-6">
                             <div class="item-image">
-                                <img src="assets/images/face2.jpg" alt="" title="">
+                                <img src="{{asset('assets/images/face2.png')}}" alt="" title="">
                             </div>
                             <div class="item-caption py-3">
                                 <div class="item-name px-2">
@@ -169,6 +171,7 @@
                                 <div class="item-role px-2">
                                     <p>Front-End Stack</p>
                                 </div>
+                                <!--
                                 <div class="item-social pt-2">
                                     <a href="https://twitter.com/mobirise" target="_blank">
                                         <span class="p-1 socicon-twitter socicon mbr-iconfont mbr-iconfont-social"></span>
@@ -188,12 +191,12 @@
                                     <a href="https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw" target="_blank">    
                                         
                                     </a>
-                                </div>
+                                </div>-->
                             </div>
                         </div>
                         <div class="team-item col-lg-3 col-md-6">
                             <div class="item-image">
-                                <img src="assets/images/face3.jpg" alt="" title="">
+                                <img src="{{asset('assets/images/face3.png')}}" alt="" title="">
                             </div>
                             <div class="item-caption py-3">
                                 <div class="item-name px-2">
@@ -203,6 +206,7 @@
                                 <div class="item-role px-2">
                                     <p>Back-End Stack</p>
                                 </div>
+                                <!--
                                 <div class="item-social pt-2">
                                     <a href="https://twitter.com/mobirise" target="_blank">
                                         <span class="p-1 socicon-twitter socicon mbr-iconfont mbr-iconfont-social"></span>
@@ -222,13 +226,13 @@
                                     <a href="https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw" target="_blank">    
                                         
                                     </a>
-                                </div>
+                                </div>-->
                             </div>
                             
                         </div>
                         <div class="team-item col-lg-3 col-md-6">
                             <div class="item-image">
-                                <img src="assets/images/face3.jpg" alt="" title="">
+                                <img src="{{asset('assets/images/face4.png')}}" alt="" title="">
                             </div>
                             <div class="item-caption py-3">
                                 <div class="item-name px-2">
@@ -237,7 +241,7 @@
                                 </div>
                                 <div class="item-role px-2">
                                     <p>Relacionista</p>
-                                </div>
+                                </div><!--
                                 <div class="item-social pt-2">
                                     <a href="https://twitter.com/mobirise" target="_blank">
                                         <span class="p-1 socicon-twitter socicon mbr-iconfont mbr-iconfont-social"></span>
@@ -257,13 +261,13 @@
                                     <a href="https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw" target="_blank">    
                                         
                                     </a>
-                                </div>
+                                </div>-->
                             </div>
                     </div>    
                 </div>
             </section>
             
-            <section class="counters6 counters cid-rWvqNkXVwr" id="counters6-i">
+            <section class="counters6 counters cid-rWvqNkXVwr animado" id="counters6-i">
             
                 
             
@@ -405,7 +409,7 @@
                 </div>
             </section>
             
-            <section class="mbr-section form1 cid-rWvrFZMn8H" id="form1-l">
+            <section class="mbr-section form1 cid-rWvrFZMn8H animadoDerecha" id="form1-l">
             
                 
             
@@ -638,7 +642,7 @@
               <script src="{{asset('assets/tether/tether.min.js')}}"></script>
               <script src="{{asset('assets/theme/js/script.js')}}"></script>
               <script src="{{asset('assets/formoid/formoid.min.js')}}"></script>
-              
+              <script src="{{asset('animation/animacion.js')}}"></script>
               
             </body>
             </html>
