@@ -39,6 +39,7 @@ class RegisterController extends Controller
      */
     public function __construct()
     {
+       //Descomentar para deploy
         Redirect::to('/')->send();
     }
 

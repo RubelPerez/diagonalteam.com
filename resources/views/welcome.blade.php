@@ -3,7 +3,6 @@
             <!DOCTYPE html>
             <html  >
             <head>
-              <!-- Site made with Mobirise Website Builder v4.12.3, https://mobirise.com -->
               <meta charset="UTF-8">
               <meta http-equiv="X-UA-Compatible" content="IE=edge">
               <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
@@ -70,10 +69,13 @@
                                 <a class="nav-link link text-white display-4" data-target-id= "form1-l" href="#form1-l"><span class="mbri-contact-form mbr-iconfont mbr-iconfont-btn"></span>
                                     Contactanos</a>
                             </li>
+                            @if( Auth::guest() )
+                            @else
                             <li class="nav-item">
                                 <a class="nav-link link text-white display-4" href="/login"><span class="mbri-setting3 mbr-iconfont mbr-iconfont-btn"></span>
                                     Administrador</a>
                             </li>
+                            @endif
                         </ul>
                         
                     </div>
