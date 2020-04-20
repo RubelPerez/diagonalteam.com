@@ -398,10 +398,6 @@
             </section>
             
             <section class="mbr-section form1 cid-rWvrFZMn8H animadoDerecha" id="form1-l">
-            
-                
-            
-                
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="title col-12 col-lg-8">
@@ -466,22 +462,22 @@
                         <!--editar-->
                       
                        
-                       <div class="col-sm-12">
-                         <div class="col-12 col-sm-12 col-md-12">      
+                       <div class="col-12">
+                         <div class="col-12 ">      
                            <h2 class="text-black font-weight-bold">
                             <span class="mbri-letter  mbr-iconfont mbr-iconfont-btn"></span>
                             Correo</h2>
                       </div>
-                         <div class="col-sm-12"><a href="mailto:info@diagonalteam.com"><p class="text-left pl-5">info@diagonalteam.com</p></a>
+                         <div class="col-12"><a href="mailto:info@diagonalteam.com"><p class="text-left pl-5">info@diagonalteam.com</p></a>
                       </div>
                        </div>
-                       <div class="col-sm-12">
-                        <div class="col-12 col-sm-12 col-md-12">      
+                       <div class="col-12">
+                        <div class="col-12">      
                            <h2 class="text-black font-weight-bold">
                             <span class="mbri-mobile  mbr-iconfont mbr-iconfont-btn"></span>    
                             Telefono</h2>
                       </div>
-                         <div class="col-sm-12"><p class="text-left pl-5">+34 652 61 35 33</p></div>
+                         <div class="col-12"><p class="text-left pl-5">+34 652 61 35 33</p></div>
                        </div>
                       
                       <!--fin editar-->
@@ -581,27 +577,27 @@
                                 
                                 
                             <div class="soc-item">
-                                    <a href="https://twitter.com/mobirise" target="_blank">
+                                    <a href="https://twitter.com/diagonalteamdev" target="_blank">
                                         <span class="socicon-twitter socicon mbr-iconfont mbr-iconfont-social"></span>
                                     </a>
                                 </div><div class="soc-item">
-                                    <a href="https://www.facebook.com/pages/Mobirise/1616226671953247" target="_blank">
+                                    <a href="https://www.facebook.com/Diagonal-Team-102943871398092" target="_blank">
                                         <span class="socicon-facebook socicon mbr-iconfont mbr-iconfont-social"></span>
                                     </a>
                                 </div><div class="soc-item">
-                                    <a href="https://www.youtube.com/c/mobirise" target="_blank">
+                                    <a href="#" target="_blank">
                                         <span class="socicon-youtube socicon mbr-iconfont mbr-iconfont-social"></span>
                                     </a>
                                 </div><div class="soc-item">
-                                    <a href="https://instagram.com/mobirise" target="_blank">
+                                    <a href="https://www.instagram.com/diagonalteamdev" target="_blank">
                                         <span class="socicon-instagram socicon mbr-iconfont mbr-iconfont-social"></span>
                                     </a>
                                 </div><div class="soc-item">
-                                    <a href="https://plus.google.com/u/0/+Mobirise" target="_blank">
+                                    <a href="#" target="_blank">
                                         <span class="socicon-googleplus socicon mbr-iconfont mbr-iconfont-social"></span>
                                     </a>
                                 </div><div class="soc-item">
-                                    <a href="https://www.behance.net/Mobirise" target="_blank">
+                                    <a href="#" target="_blank">
                                         <span class="socicon-behance socicon mbr-iconfont mbr-iconfont-social"></span>
                                     </a>
                                 </div></div>
