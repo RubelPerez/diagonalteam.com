@@ -96,7 +96,7 @@
                             </h1>
                             
                             <p class="mbr-text pb-3 mbr-fonts-style display-5">
-                               
+                               Programadores y Desarrolladores Web profesionales
                             </p>
                             <div class="mbr-section-btn">
                                 <a class="btn btn-md btn-info display-4" data-target-id="counters6-i" href="#counters6-i">NOSOTROS</a>
