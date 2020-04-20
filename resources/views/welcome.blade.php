@@ -264,15 +264,9 @@
                             </div>
                     </div>    
                 </div>
-            </section>
-            
+            </section>            
             <section class="counters6 counters cid-rWvqNkXVwr animado" id="counters6-i">
-            
-                
-            
-                
-            
-                <div class="container pt-4 mt-2">
+            <div class="container pt-4 mt-2">
                     <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2 font-weight-bold">NOSOTROS</h2>
                     <h3 class="mbr-section-subtitle pb-5 align-center mbr-fonts-style display-5">
                         Un start-up joven, dinamico especializado en las diferentes tecnologias actuales enfocados en el
@@ -348,11 +342,6 @@
                 <div class="container">
                     <div class="carousel slide" role="listbox" data-pause="true" data-keyboard="false" data-ride="carousel" data-interval="5000">
                         <div class="carousel-inner" data-visible="5">
-                            
-                            
-                            
-                            
-                            
                         <div class="carousel-item ">
                                 <div class="media-container-row">
                                     <div class="col-md-12">
@@ -408,7 +397,7 @@
                 </div>
             </section>
             
-            <section class="mbr-section form1 cid-rWvrFZMn8H animadoDerecha" id="form1-l">
+            <section class="mbr-section form1 cid-rWvrFZMn8H animado" id="form1-l">
             
                 
             
