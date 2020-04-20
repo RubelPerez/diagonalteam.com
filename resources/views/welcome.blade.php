@@ -265,7 +265,7 @@
                     </div>    
                 </div>
             </section>            
-            <section class="counters6 counters cid-rWvqNkXVwr animado" id="counters6-i">
+            <section class="counters6 counters cid-rWvqNkXVwr animadoDerecha" id="counters6-i">
             <div class="container pt-4 mt-2">
                     <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2 font-weight-bold">NOSOTROS</h2>
                     <h3 class="mbr-section-subtitle pb-5 align-center mbr-fonts-style display-5">
