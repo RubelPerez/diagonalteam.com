@@ -21,8 +21,17 @@
               <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
               <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
 
-              
-              
+              <!-- Global site tag (gtag.js) - Google Analytics -->
+				<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164092250-1">
+				</script>
+				<script>
+				  window.dataLayer = window.dataLayer || [];
+				  function gtag(){dataLayer.push(arguments);}
+				  gtag('js', new Date());
+
+				  gtag('config', 'UA-164092250-1');
+				</script>
+							  
             </head>
             <body>
               <section class="menu cid-rWvvouNZiy" once="menu" id="menu1-q">           
