@@ -7,7 +7,7 @@ function mostrarScroll () {
         if(alturaAnimado-500<scrolltop)
         {
             animado[i].style.opacity=1;
-            animado[i].classList.add('mostrarAbajo')
+            animado[i].classList.add('.mostrarAbajo')
         }
     }
 }
