@@ -174,7 +174,7 @@
                             <div class="item-caption py-3">
                                 <div class="item-name px-2">
                                     <p class="mbr-fonts-style display-5">
-                                       Angel Delgado</p>
+                                       Leo Hernandez</p>
                                 </div>
                                 <div class="item-role px-2">
                                     <p>Front-End Stack</p>
@@ -209,7 +209,7 @@
                             <div class="item-caption py-3">
                                 <div class="item-name px-2">
                                     <p class="mbr-fonts-style display-5">
-                                       Miguel Casas</p>
+                                       Joshua Cruz</p>
                                 </div>
                                 <div class="item-role px-2">
                                     <p>Back-End Stack</p>
@@ -245,7 +245,7 @@
                             <div class="item-caption py-3">
                                 <div class="item-name px-2">
                                     <p class="mbr-fonts-style display-5">
-                                       Ana M&deg; Cuevas</p>
+                                       Ana M&deg; Fernandez</p>
                                 </div>
                                 <div class="item-role px-2">
                                     <p>Relacionista</p>
