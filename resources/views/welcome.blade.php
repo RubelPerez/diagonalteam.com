@@ -480,16 +480,15 @@
                          <div class="col-12"><a href="mailto:info@diagonalteam.com"><p class="text-left pl-5">info@diagonalteam.com</p></a>
                       </div>
                        </div>
-                       <div class="col-12">
-                        <div class="col-12">      
+                      <div class="col-12">
+                     <!--    <div class="col-12">      
                            <h2 class="text-black font-weight-bold">
                             <span class="mbri-mobile  mbr-iconfont mbr-iconfont-btn"></span>    
                             Telefono</h2>
                       </div>
                          <div class="col-12"><p class="text-left pl-5">+34 652 61 35 33</p></div>
-                       </div>
+                       </div>-->
                       
-                      <!--fin editar-->
                       </div>
                         </div>
                       
