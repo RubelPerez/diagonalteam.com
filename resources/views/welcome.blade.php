@@ -355,7 +355,7 @@
                                 <div class="media-container-row">
                                     <div class="col-md-12">
                                         <div class="wrap-img ">
-                                            <img src="{{asset('images/1.png')}}" class="img-responsive clients-img">
+                                            <img src="{{asset('assets/images/1.png')}}" class="img-responsive clients-img">
                                         </div>
                                     </div>
                                 </div>
@@ -363,7 +363,7 @@
                                 <div class="media-container-row">
                                     <div class="col-md-12">
                                         <div class="wrap-img ">
-                                            <img src="{{asset('images/2.png')}}" class="img-responsive clients-img">
+                                            <img src="{{asset('assets/images/2.png')}}" class="img-responsive clients-img">
                                         </div>
                                     </div>
                                 </div>
@@ -371,7 +371,7 @@
                                 <div class="media-container-row">
                                     <div class="col-md-12">
                                         <div class="wrap-img ">
-                                            <img src="{{asset('images/3.png')}}" class="img-responsive clients-img">
+                                            <img src="{{asset('assets/images/3.png')}}" class="img-responsive clients-img">
                                         </div>
                                     </div>
                                 </div>
@@ -379,7 +379,7 @@
                                 <div class="media-container-row">
                                     <div class="col-md-12">
                                         <div class="wrap-img ">
-                                            <img src="{{asset('images/4.png')}}" class="img-responsive clients-img">
+                                            <img src="{{asset('assets/images/4.png')}}" class="img-responsive clients-img">
                                         </div>
                                     </div>
                                 </div>
@@ -387,7 +387,7 @@
                                 <div class="media-container-row">
                                     <div class="col-md-12">
                                         <div class="wrap-img ">
-                                            <img src="{{asset('images/5.png')}}" class="img-responsive clients-img">
+                                            <img src="{{asset('assets/images/5.png')}}" class="img-responsive clients-img">
                                         </div>
                                     </div>
                                 </div>
