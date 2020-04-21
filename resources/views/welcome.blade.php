@@ -18,7 +18,7 @@
               <link rel="stylesheet" href="{{asset('assets/theme/css/style.css')}}">
               <link rel="stylesheet" href="{{asset('animation/animacion.css')}}">
               <link rel="preload" as="style" href="{{asset('assets/mobirise/css/mbr-additional.css')}}"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
-              <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+              <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
               <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
 
               <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -355,7 +355,7 @@
                                 <div class="media-container-row">
                                     <div class="col-md-12">
                                         <div class="wrap-img ">
-                                            <img src="assets/images/1.png" class="img-responsive clients-img">
+                                            <img src="{{asset('images/1.png')}}" class="img-responsive clients-img">
                                         </div>
                                     </div>
                                 </div>
@@ -363,7 +363,7 @@
                                 <div class="media-container-row">
                                     <div class="col-md-12">
                                         <div class="wrap-img ">
-                                            <img src="assets/images/2.png" class="img-responsive clients-img">
+                                            <img src="{{asset('images/2.png')}}" class="img-responsive clients-img">
                                         </div>
                                     </div>
                                 </div>
@@ -371,7 +371,7 @@
                                 <div class="media-container-row">
                                     <div class="col-md-12">
                                         <div class="wrap-img ">
-                                            <img src="assets/images/3.png" class="img-responsive clients-img">
+                                            <img src="{{asset('images/3.png')}}" class="img-responsive clients-img">
                                         </div>
                                     </div>
                                 </div>
@@ -379,7 +379,7 @@
                                 <div class="media-container-row">
                                     <div class="col-md-12">
                                         <div class="wrap-img ">
-                                            <img src="assets/images/4.png" class="img-responsive clients-img">
+                                            <img src="{{asset('images/4.png')}}" class="img-responsive clients-img">
                                         </div>
                                     </div>
                                 </div>
@@ -387,7 +387,7 @@
                                 <div class="media-container-row">
                                     <div class="col-md-12">
                                         <div class="wrap-img ">
-                                            <img src="assets/images/5.png" class="img-responsive clients-img">
+                                            <img src="{{asset('images/5.png')}}" class="img-responsive clients-img">
                                         </div>
                                     </div>
                                 </div>
@@ -612,7 +612,7 @@
                         </div>
                         <div class="row row-copirayt">
                             <p class="mbr-text mb-0 mbr-fonts-style mbr-white align-center display-7">
-                                © Copyright {{date('Y')}} <a href="http://diagonalteam.com">{{env('APP_NAME')}}.com</a> - Todos los Derechos Reservados
+                                © Copyright {{date('Y')}} <a href="https://diagonalteam.com">{{env('APP_NAME')}}.com</a> - Todos los Derechos Reservados
                             </p>
                         </div>
                     </div>
