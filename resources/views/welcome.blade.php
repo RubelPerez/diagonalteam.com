@@ -72,6 +72,10 @@
                                     Nuestros Clientes</a>
                             </li>
                             <li class="nav-item">
+                                <a class="nav-link link text-white display-4" data-target-id= "tutorias-i" href="#tutorias-i"><span class="socicon mbri-edit mbr-iconfont mbr-iconfont-btn mbri-edit"></span>
+                                    Tutorias</a>
+                            </li>
+                            <li class="nav-item">
                                 <a class="nav-link link text-white display-4" data-target-id= "form1-l" href="#form1-l"><span class="mbri-contact-form mbr-iconfont mbr-iconfont-btn"></span>
                                     Contactanos</a>
                             </li>
@@ -330,6 +334,7 @@
                 </div>
             </section>
             
+            
             <section class="clients cid-rWvr1IwP37 mbr-parallax-background" data-interval="false" id="clients-j">
                   
             
@@ -405,6 +410,64 @@
                     </div>
                 </div>
             </section>
+
+
+            <section class="tutorias-i counters cid-rWvqNkXVwr animadoDerecha" id="tutorias-i">
+               
+                <div class="container pt-4 mt-2">
+                        <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2 font-weight-bold">TUTORIAS</h2>
+                        <h3 class="mbr-section-subtitle pb-5 align-center mbr-fonts-style display-5">
+                            Un start-up joven, dinamico especializado en las diferentes tecnologias actuales enfocados en el
+                            sacar del anonimato digital a las PYMES brindando soluciones web y de correo a muy bajo costo y de calidad
+                            profesional.
+                        </h3>
+                        <div>
+                                <div class="cards-container">
+                                    <div class="card col-12 col-md-6 col-lg-4 pb-md-4">
+                                        <div class="panel-item align-center">
+                                            <div class="card-img pb-3">
+                                                <h3 class="img-text mbr-fonts-style display-1">01.</h3>
+                                            </div>
+                                            <div class="card-text">
+                                                <h4 class="mbr-content-title mbr-bold mbr-fonts-style display-7">Honestos y Confiables</h4>
+                                                <p class="mbr-content-text mbr-fonts-style display-7">
+                                                Ningun cobro excesivo, siempre entregamos todos con recibos oficiales de las plataformas con las que trabajamos. 
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card col-12 col-md-6 col-lg-4 pb-md-4">
+                                        <div class="panel-item align-center">
+                                            <div class="card-img pb-3">
+                                                <h3 class="img-text mbr-fonts-style display-1">02.</h3>
+                                            </div>
+                                            <div class="card-text">
+                                                <h4 class="mbr-content-title mbr-bold mbr-fonts-style display-7">Siempre Innovamos</h4>
+                                                <p class="mbr-content-text mbr-fonts-style display-7">
+                                                    Ninguna persona es igual, pues asi mismo, ninguna web es igual. Todas deben ajustarse a su due&ntilde;o y no viceversa
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card col-12 col-md-6 col-lg-4 last-child">
+                                        <div class="panel-item align-center">
+                                            <div class="card-img pb-3">
+                                                <h3 class="img-text mbr-fonts-style display-1">03.</h3>
+                                            </div>
+                                            <div class="card-text">
+                                                <h4 class="mbr-content-title mbr-bold mbr-fonts-style display-7">Somos Apasionados</h4>
+                                                <p class="mbr-content-text mbr-fonts-style display-7">
+                                                Nos encanta la tecnologia y siempre estamos estudiandola y haciendo <em>improvement</em> para ver como ofrecer solo lo 
+                                                mejor a nuestros clientes       
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                    </div>
+                </section>
             
             <section class="mbr-section form1 cid-rWvrFZMn8H animadoDerecha" id="form1-l">
                 <div class="container">
