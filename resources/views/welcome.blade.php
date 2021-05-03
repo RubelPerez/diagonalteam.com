@@ -474,7 +474,8 @@
                                     (T-SQL/MySQL...)</h4>
                                 <p class="mbr-content-text mbr-fonts-style display-7">
                                     Lenguaje para la gestion de datos desde una base de datos relacional (RDBMS).
-                                    Tecnología actualmente en auge por el uso de la inteligencia artificial
+                                    Tecnología actualmente en auge por el uso de la inteligencia artificial.
+                                    Preparamos a nuestro alumnado para la <strong> certificación MICROSOFT MTA 98-364</strong>
                                 </p>
                             </div>
                         </div>
@@ -487,8 +488,9 @@
                             <div class="card-text">
                                 <h4 class="mbr-content-title mbr-bold mbr-fonts-style display-7">HTML/CSS/JS</h4>
                                 <p class="mbr-content-text mbr-fonts-style display-7">
-                                    Las 3 principales tecnologias para la creación desde el más complicado hasta el más
-                                    sencillo sitio web.
+                                    Las 3 principales tecnologías para la creación desde el más complicado hasta el más
+                                    sencillo sitio web. Enfocandonos principalmente en las bases del correcto diseño y las técnicas
+                                    <i>pixel perfect</i>
                                 </p>
                             </div>
                         </div>
