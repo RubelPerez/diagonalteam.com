@@ -505,6 +505,7 @@
                                     Donde se aprenderá a crear aplicaciones web robustas, seguras y confiables, además
                                     de, dinámicas.
 
+                                    
                                     {{-- Se pretende alcanzar que el alumno comprenda como conectar
                                                diferentes tecnologias, dominar conceptos de Front-End y Back-end asi como unir bases de datos y configurar servidores
                                                basados en linux. --}}
