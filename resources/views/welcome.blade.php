@@ -756,7 +756,7 @@
                 <div class="row row-copirayt">
                     <p class="mbr-text mb-0 mbr-fonts-style mbr-white align-center display-7">
                         © Copyright {{ date('Y') }} <a
-                            href="https://diagonalteam.com">https://diagonalteam.com</a> - Todos los Derechos
+                            href="https://diagonalteam.com">diagonalteam.com</a> - Todos los Derechos
                         Reservados
                     </p>
                 </div>
